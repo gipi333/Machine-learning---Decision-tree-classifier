@@ -1,4 +1,4 @@
-# Machine-learning---Unsupervised-Analysis-of-a-dataset-made-of-leaves-
+# Machine-learning---Decision tree classifier
 
 
 The aim of this work is the realization of a Python program allowing seeing underfitting and overfitting through the decision trees. The program also allows the deduction of the ideal number of leaves for the decision tree. 
