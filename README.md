@@ -7,3 +7,8 @@ The program uses a dataset named "Wisconsin breast cancer" and allows the constr
 
 In order to select the ideal number of leaves, the average accuracy of the decision trees ranging from 2 to 30 leaves was calculated and plotted on a graph for the training set and the test set. Thanks to this graph, it was found that the ideal number of leaves for the decision tree is 6.
 
+
+
+<p align="center">
+<img src="https://github.com/gipi333/Machine-learning---Decision-tree-classifier/blob/main/picture.jpg" height="280">
+</p>
